@@ -12,3 +12,13 @@ Um engenheiro de software também é um desenvolveldor de software. No entanto, 
 Pergunta: O que é um trade-off no projeto da API do segundo semestre?
 Resposta: Estipular o desenvolvimento de um software desktop não permite o cliente abrir o projeto em um navegador, além de não permitir seu uso no aparelho móvel. Porém, um software desktop permite uma flexibilidade de aplicação para o cliente. 
 
+25/08/2022
+Sistema que simula uma lista de compras. Ele permite o usuário cadastrar um item que esta em falta e a sua respetiva quantidade. Além disso há a possibilidade do usuário adicionar o valor de cada item para saber o preço final. Por fim, o usuário poderá compatilhar a lista com outra pessoa se necessário. 
+
+Requisitos Funcionais: Criar lista de compras, adicionar itens na lista, remover itens da lista, alterar a quantidade de itens, adicionar o valor de cada item e compartilhar a lista.
+
+Requisitos não funcionais: 
+	Usabilidade: interface simples e intuitiva de uso.
+  Integração: Sistema integra com outra aplicação.
+
+
