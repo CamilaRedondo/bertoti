@@ -70,4 +70,22 @@ Porém, no gif abaixo que representa um portifólio de um desenvolvedor a navega
     <img src="imagens/portifolio.gif" width="65%" />
   <br>
   
+  <h3 align="center">3.3.1 Error Identification
+If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.
+  </h3>
+  <br>
+  <p>Pensar nos possiveis erros ao desenvolver uma programa permite que ferramentas que auxiliem o usuario compreender o que aconteceu sejam implementadas. Nesse caso, ao tentar acessar o e-mail com a senha errada o site retorna a imformação de que ou o e-mail está errado ou a senha está incorreta.
+  </p>
+   <br>
+    <img src="" width="65%" />
+  <p> 
   
+  <h3 align="center">3.3.3 Error Suggestion
+If an input error is automatically detected and suggestions for correction are known, then the suggestions are provided to the user, unless it would jeopardize the security or purpose of the content.
+  </h3>
+  <br>
+  <p>Assim como foi abordado no itém anterior esse também aborda sobre pensar nos possiveis erros ao desenvolver uma programa. No entanto, esse item já diz respeito a prever possiveis erros. Na imagem abaixo o usuário esta digitando um possível e-mail, no entanto o programa já preve um possivél erro e sugere uma solução.
+  </p>
+   <br>
+    <img src="" width="65%" />
+  <p> 
