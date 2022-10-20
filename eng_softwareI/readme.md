@@ -15,11 +15,13 @@ Resposta: Estipular o desenvolvimento de um software desktop não permite o clie
 <h2>25/08/2022</h2>
 <p>Sistema que simula uma lista de compras. Ele permite o usuário cadastrar um item que esta em falta e a sua respetiva quantidade em uma lista. Por fim, o usuário poderá compatilhar a lista com outra pessoa se necessário.</p>
 
-<p>Requisitos Funcionais: Criar lista de compras, adicionar itens na lista, remover itens da lista, alterar a quantidade de itens e compartilhar a lista.</p>
+<h3>Requisitos Funcionais:</h3> <p>Criar uma ou mais listas de compras, adicionar e remover itens das listas, alterar a quantidade de itens e compartilhar a lista.</p>
 <br>
 <h3>Requisitos não funcionais:</h3>
 <p>	Usabilidade: interface simples e intuitiva de uso.
   	Integração: Sistema integra com outra aplicação.</p>
+<p> Arquitetura: MVC </p>
+    
 <br>
 <h3>Diagrama de classes</h3>
 <br>
