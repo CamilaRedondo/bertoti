@@ -25,5 +25,5 @@ Resposta: Estipular o desenvolvimento de um software desktop não permite o clie
 <br>
 <h3>Diagrama de classes</h3>
 <br>
-    <img src="imagens/diagrama_de_classe.drawio.png" width="65%" />
+    <img src="imagens/diagrama_classe_lista_compras.png" width="65%" />
 
