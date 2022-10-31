@@ -27,3 +27,39 @@ Resposta: Estipular o desenvolvimento de um software desktop não permite o clie
 <br>
     <img src="imagens/diagrama_classe_lista_compras.png" width="65%" />
 
+<br> 
+<h3>Código do programa</h3>
+<br> 
+<h2>Classe App</h2>
+<br>
+    <img src="imagens/classe_app.png" width="65%" />
+    
+<br> 
+<h2>Classe Usuario</h2>
+<br>
+    <img src="imagens/classe_usuario.png" width="65%" />
+    
+<br> 
+<h2>Classe Lista</h2>
+<br>
+    <img src="imagens/classe_lista.png" width="65%" />
+
+<br> 
+<h2>Classe Item</h2>
+<br>
+    <img src="imagens/classe_item.png" width="65%" />
+
+<br> 
+<h2>Classe Categoria</h2>
+<br>
+    <img src="imagens/classe_categoria.png" width="65%" />
+ 
+<br> 
+<h2>Classe Main</h2>
+<br>
+    <img src="imagens/classe_main.png" width="65%" />
+    
+<br> 
+<h2>Programa Rodando</h2>
+<br>
+    <img src="imagens/terminal.png" width="65%" />
