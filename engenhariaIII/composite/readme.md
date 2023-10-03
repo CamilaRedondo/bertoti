@@ -3,5 +3,3 @@
 
 ![Diagrama UML](/engenhariaIII/strategy/diagramaUml.png)
 
-<h3>Onde é usado em Java</h3>
-<p>java.awt.Container</p>
