@@ -3,5 +3,3 @@
 
 ![Diagrama UML](/engenhariaIII/singleton/diagramaUml.png)
 
-<h3>Onde é usado em Java</h3>
-<p>java.util.Comparator</p>
